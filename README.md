@@ -4,7 +4,7 @@ Submitted by: Matheu Douglas
 
 Wordle is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
-Time spent: ? hours spent in total wan't keeping track :|
+Time spent: ? hours spent in total wasn't keeping track :|
 
 ## Required Features
 
