@@ -51,7 +51,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2077] [name of copyright owner]
+    Copyright [2077] [Wococko Locko from the year 20202020]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
