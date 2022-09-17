@@ -46,7 +46,6 @@ GIF created with ...
 Describe any challenges encountered while building the app.
 
 * Android Studio sucks 
-* Codepath is horribly designed 
 * Lost all my code to Android Studio
 
 ## License
